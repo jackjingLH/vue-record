@@ -1,0 +1,2 @@
+export const SET_RECORD_LIST = 'SET_RECORD_LIST'
+
